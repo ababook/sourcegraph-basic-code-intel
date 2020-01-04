@@ -50,7 +50,7 @@
     "@types/node": "10.12.12",
     "lnfs-cli": "^2.1.0",
     "mkdirp": "^0.5.1",
-    "mocha": "^5.2.0",
+    "mocha": "^7.0.0",
     "nyc": "^12.0.2",
     "source-map-support": "^0.5.9",
     "ts-node": "^7.0.1",
